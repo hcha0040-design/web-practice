@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    font-size: 36px;
+}
+
+body {
+    padding: 30px;
+    background-color: #f2f2f2;
+}
+
+p {
+    background-color: white;
+    padding: 20px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
